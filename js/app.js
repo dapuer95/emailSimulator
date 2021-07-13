@@ -1,4 +1,4 @@
-// variables
+// variable
 const btnEnviar = document.querySelector('#enviar');
 const btnReset = document.querySelector('#resetBtn');
 const formulario = document.querySelector('#enviar-mail');
