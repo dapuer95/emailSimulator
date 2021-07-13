@@ -5,6 +5,10 @@ const formulario = document.querySelector('#enviar-mail');
 
 // variables para campos
 const email = document.querySelector('#email');
+
+
+
+
 const asunto = document.querySelector('#asunto');
 const mensaje = document.querySelector('#mensaje');
 
